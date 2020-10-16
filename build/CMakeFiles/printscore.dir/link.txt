@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/printscore.dir/printscore.cpp.o  -o printscore 

@@ -1,4 +1,0 @@
-/mnt/c/Users/hikmat/source/repos/FA-Checker/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/hikmat/source/repos/FA-Checker/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/hikmat/source/repos/FA-Checker/build/CMakeFiles/printscore.dir
-/mnt/c/Users/hikmat/source/repos/FA-Checker/build/CMakeFiles/FA-Checker.dir
