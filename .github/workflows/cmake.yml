@@ -1,0 +1,21 @@
+name: CMake
+
+on: [push]
+
+env:
+  BUILD_TYPE: Release
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Create Build Environment
+      run: sh testall.sh
+    - uses: actions/upload-artifact@v2
+      with:
+        name: my-artifact
+
+        path: tests/grade
