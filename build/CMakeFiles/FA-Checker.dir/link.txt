@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/FA-Checker.dir/FA-Checker.cpp.o CMakeFiles/FA-Checker.dir/readFA.cpp.o CMakeFiles/FA-Checker.dir/readTests.cpp.o  -o FA-Checker 
