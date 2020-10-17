@@ -12,6 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: pull request
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       run: gh pr list
     - name: Create Build Environment
       run: sh testall.sh
